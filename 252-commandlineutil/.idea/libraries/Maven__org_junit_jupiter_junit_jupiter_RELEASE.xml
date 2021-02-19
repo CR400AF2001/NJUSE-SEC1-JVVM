@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.junit.jupiter:junit-jupiter:RELEASE">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter/RELEASE/junit-jupiter-RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter/RELEASE/junit-jupiter-RELEASE-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter/RELEASE/junit-jupiter-RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
